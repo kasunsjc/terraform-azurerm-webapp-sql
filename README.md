@@ -3,6 +3,8 @@ Create two Azure web Apps. One app for frontend and other for API. API Web App i
 
 Following architecture will deploy for this module 
 
+Note- SSL and Azure DevOps & DNS are not deployed from this module
+
 ![Architecture](images/Architecture%20Diagram.png)
 
 Example Module Deployment using variable file
