@@ -25,7 +25,7 @@ variable "app_service_plan_size" {
 }
 
 variable "web_app_name" {
-  default = "web-app-kasun"
+  default = "web-app"
   description = "Front end Web App Name"
 }
 
@@ -51,7 +51,6 @@ variable "sql_master_username" {
 }
 
 variable "sql_master_password" {
-  default = "abc@12345"
   description = "Master password for SQL Server"
 }
 
